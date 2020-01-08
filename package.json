@@ -1,0 +1,12 @@
+{
+  "name": "atolye15-hex",
+  "version": "1.0.0",
+  "main": "hex2rgba.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
